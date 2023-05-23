@@ -32,10 +32,11 @@ img {
 .card-heading {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-size: large;
 }
 
 .card-content {
-    font-size: 15px;
+    font-size: small;
     color: hsl(220, 15%, 55%);
 }
 
